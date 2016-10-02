@@ -1,0 +1,1 @@
+/home/alphaguy4/./codecons < in.txt

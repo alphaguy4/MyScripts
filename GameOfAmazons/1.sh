@@ -1,0 +1,1 @@
+/home/alphaguy4/CodeWarriorsArena/./a.out < in.txt
